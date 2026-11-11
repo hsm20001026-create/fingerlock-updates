@@ -1,7 +1,7 @@
 {
-  "versionCode": 70007,
-  "versionName": "10.0.1",
-  "apkUrl": "https://github.com/hsm20001026-create/fingerlock-updates/releases/download/v10.0.1/fingerlock-10.0.1.apk",
-  "notes": "지문 창 즉시 표시·앱 안 자동 업데이트",
-  "sha256": "99dfd89cd6e29bcd21554c1470b2809f7882be71379355b0e0a119ed027a21b0"
+  "versionCode": 70008,
+  "versionName": "11.0.1",
+  "apkUrl": "https://github.com/hsm20001026-create/fingerlock-updates/releases/download/v11.0.1/fingerlock-11.0.1.apk",
+  "notes": "지문 창 두 번 뜨는 문제 수정",
+  "sha256": "7bd85d9c42f0f65355a3d3fd7d61971436b3bbb3a585c3aeb9712e1c88fc69b2"
 }
